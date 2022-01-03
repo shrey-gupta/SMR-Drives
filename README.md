@@ -1,0 +1,3 @@
+# SMR-Drives
+
+SMR drives or Shingled Magnetic Recordings are one of the newest addition to the drive technology. It uses shingling of tracks to achieve high areal density. However, the shingling reduces SMR’s efficiency as it increases the write/update latency. Although SMR drives are laudable for their original space-efficient architecture, their impediment arises in their throughput for writing or updating the data. In this paper, we review the improvements in the write/update technology for these drives. We will look at how they address this problem and the software methodologies used to overcome it.
